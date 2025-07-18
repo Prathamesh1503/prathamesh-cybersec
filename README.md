@@ -6,4 +6,4 @@
 📘 Learning: Python, Bash, Nmap, Burp Suite, Wireshark  
 🧑‍💻 Portfolio & projects coming soon...
 
-📫 Reach me: prathamesh@example.com *(update with your real email)*  
+📫 Reach me: prathameshlt15@gmail.com
