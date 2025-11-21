@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Prathamesh Sanjay Pawar
 
-🎓 BCA Cybersecurity Student | 🧠 Google Cybersecurity Certificate Learner  
+🎓 BCA Cybersecurity Student 
 🛡️ Interested in Network Security, OSINT, Linux, and Threat Analysis  
 🔍 Currently building skills through TryHackMe, scripting & labs  
 📘 Learning: Python, Bash, Nmap, Burp Suite, Wireshark  
