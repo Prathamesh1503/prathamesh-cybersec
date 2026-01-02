@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Prathamesh Sanjay Pawar
+# Hi there 👋, I'm Prathamesh Pawar
 
 🎓 BCA Cybersecurity Student 
 🛡️ Interested in Network Security, OSINT, Linux, and Threat Analysis  
